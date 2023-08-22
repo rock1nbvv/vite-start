@@ -8,11 +8,9 @@ module.exports = {
     ],
     plugins: ['@typescript-eslint'],
     root: true,
-
     env: {
         'node': true
     },
-
     rules: {
         'semi': [
             2,
